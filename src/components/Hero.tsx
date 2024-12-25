@@ -8,7 +8,7 @@ export default function Hero() {
       <div 
         className="absolute inset-0 z-0"
         style={{
-          backgroundImage: 'url("https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&q=80")',
+          backgroundImage: 'url("/chem.jpg")',
           backgroundSize: 'cover',
           backgroundPosition: 'center',
         }}
